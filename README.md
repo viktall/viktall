@@ -1,5 +1,5 @@
 
-<h1 align="center" style='background-color:#000' > 🤵<br>I'm Victor Ugwu</h1>
+<h1 align="center" style='background-color:#000' > 🤵<br><br>I'm Victor Ugwu</h1>
 <h3 align="center" style='background-color:#ff103b'>💻Frontend Developer</h3>
 <p align="center">I manipulate the DOM for a living.<br> I also implement best practices and constantly keep up-to-date with new technologies</p>
 <img align="right" alt="Coding" width="400" src="./social/coding.gif">
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **React , Next.js**
 
-- 📫 How to reach me **www.gmail.com**
+- 📫 How to reach me at **viktall007@gmail.com**
 
 - ⚡ Fun fact **I'm a sucker for music 🎶**
 
@@ -36,13 +36,13 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="./tools/ts.svg" alt="typescript" width="40" height="40"/><a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="./tools/react.svg" alt="react" width="40" height="40"/></a> 
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="./tools/next.svg" alt="nextjs" width="40" height="40"/> </a>
-<a href="node.com/" target="_blank" rel="noreferrer"> <img src="./tools/node.svg" alt="node" width="40" height="40"/> </a>
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="./tools/node.svg" alt="node" width="40" height="40"/> </a>
 <a href="https://mongodb.com/" target="_blank" rel="noreferrer"> <img src="./tools/mongodb.svg" alt="mongodb" width="40" height="40"/></a>
-<a href="postman.com" target="_blank" rel="noreferrer"> <img src="./tools/postman.svg" alt="postman" width="40" height="40"/> </a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="./tools/postman.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://www.github.com" target="_blank" rel="noreferrer"> <img src="./tools/github.svg" alt="github" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="./tools/git.svg" alt="git" width="40" height="40"/></a> 
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="./tools/illustrator.svg" alt="illustrator" width="40" height="40"/> </a>  
-<a href="xd.com/" target="_blank" rel="noreferrer"> <img src="./tools/xd.svg" alt="xd" width="40" height="40"/> </a>
+<a href="https://www.adobe.com/in/products/xd.html/" target="_blank" rel="noreferrer"> <img src="./tools/xd.svg" alt="xd" width="40" height="40"/> </a>
 </p>
 
  
