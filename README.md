@@ -1,14 +1,16 @@
 
-<h1 align="center" style='font-size:38px'> 🤵<br><br>I'm VICTOR UGWU</h1>
-<h3 align="center" style='font-size:24px; color:blue'> 💻Frontend Developer</h3>
+<h1 align="center"> 🤵<br><br><i>I'm</i> VICTOR UGWU</h1>
+<h3 align="center"> 💻Frontend Developer</h3>
 <p align="center">I manipulate the DOM for a living.<br> I also implement best practices and constantly keep up-to-date with new technologies</p>
+
+<br><br>
 <img align="right" alt="Coding" width="400" src="./social/coding.gif">
 
 
 
 
 
-- 💲 I’m currently working full-time as a **Freelancer on Upwork**
+- 💲 I’m currently working <i>full-time</i> as a **Freelancer on Upwork**
 
 - 📚 I’m currently learning **MERN**
 
