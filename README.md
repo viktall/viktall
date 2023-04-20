@@ -1,6 +1,6 @@
 
-<h1 align="center" style='background-color:#000' > 🤵<br><br>I'm Victor Ugwu</h1>
-<h3 align="center" style='background-color:#ff103b'>💻Frontend Developer</h3>
+<h1 align="center" style='font-size:38px'> 🤵<br><br>I'm VICTOR UGWU</h1>
+<h3 align="center" style='font-size:24px; color:blue'> 💻Frontend Developer</h3>
 <p align="center">I manipulate the DOM for a living.<br> I also implement best practices and constantly keep up-to-date with new technologies</p>
 <img align="right" alt="Coding" width="400" src="./social/coding.gif">
 
@@ -8,7 +8,7 @@
 
 
 
-- 💲 I’m currently working as an **Freelancer on Upwork**
+- 💲 I’m currently working full-time as a **Freelancer on Upwork**
 
 - 📚 I’m currently learning **MERN**
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me at **viktall007@gmail.com**
 
-- ⚡ Fun fact **I'm a sucker for music 🎶**
+- ⚡ Fun fact ** Programming aside, I'm a sucker for music **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
