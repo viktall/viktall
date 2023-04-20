@@ -18,7 +18,7 @@
 
 - 📫 How to reach me at **viktall007@gmail.com**
 
-- ⚡ Fun fact ** Programming aside, I'm a sucker for music **
+- ⚡ Fun fact **Programming aside, I'm a sucker for music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
